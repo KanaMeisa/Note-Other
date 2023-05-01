@@ -30,6 +30,6 @@
 
 
 
-6.Manjaro Linux515内核，英伟达独显时无法调节亮度
+6.Manjaro Linux5.15内核，英伟达独显时无法调节亮度
 
 - 使用``xrandr --output DP-4 --brightness 0.3``
